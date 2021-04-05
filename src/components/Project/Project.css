@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     height: 50vh;
-    width: 80%;
+    width: 90%;
 }
 .project-description{
     display: flex;

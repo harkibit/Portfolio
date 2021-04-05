@@ -5,13 +5,11 @@ import BioPage from "../Bio/BioPage";
 import "./Main.css";
 
 export default function Main() {
-  const onclick = () => {};
   return (
-    <div className="bio-page">
+    <div className="main">
       <Header />
       <ProjectGrid/>
       <BioPage/>
-
     </div>
   );
 }

@@ -12,3 +12,7 @@
 .particles-div > *{
     margin-bottom: -50px;
 }
+.job-title{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Discover north Lebanon",
+    "description": "To explore different cities and activities that can be done in north Lebanon.",
+    "github": "",
+    "demo": ""
+  },
+  {
+    "name": "JASH",
+    "description": "Movie app that shows all popular movies with their rating, description and trailers.",
+    "github": "",
+    "demo": ""
+  },
+  {
+    "name": "All wallets",
+    "description": "It helps you organizing your transactions through adding wallets and transactions correspending to it",
+    "github": "",
+    "demo": ""
+  },
+  {
+    "name": "Portfolio",
+    "description": "My personal portfolio",
+    "github": "",
+    "demo": ""
+  }
+]

@@ -6,6 +6,7 @@ export default function BioPage() {
   return (
     <div className="bio-page">
       <Bio />
+      <div></div>
     </div>
   );
 }
