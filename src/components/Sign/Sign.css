@@ -1,0 +1,17 @@
+.sign{
+    display: flex;
+    flex-direction: column;
+    height : min-content
+}
+.line{
+    height: 0.3vh;
+    width: 7vw;
+    background-color: #A6D4FA;
+    margin-bottom: -7.5vh;
+}
+.polygon{
+    clip-path: polygon(0 83%, 48% 83%, 100% 83%, 80% 100%, 20% 100%);
+    background-color: #A6D4FA;
+    height: 9vh;
+    width: 5vw;
+}

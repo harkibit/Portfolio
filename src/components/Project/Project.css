@@ -1,0 +1,13 @@
+.project{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 50vh;
+    width: 80%;
+}
+.project-description{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    height : 90%;
+    width: 80%;
+}

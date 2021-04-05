@@ -2,10 +2,11 @@
     height: 3em;
     width: max-content;
     font-size: 1.2em;
-    padding: 0 1em;
+    padding: 0 2em;
     background-color: #A6D4FA;
     border: none;
     outline: none;
+    font-weight: 110;
     transition: all .3s ease-in-out;
     clip-path: polygon(0% 0%, 100% 0, 100% 83%, 95% 100%, 0% 100%);
 }
