@@ -1,19 +1,11 @@
 import React from "react";
-import Button from "@material-ui/core/Button";
+import "./Button.css"
 import CloudUploadIcon from "@material-ui/icons/CloudUpload";
 
-export default function ButtonComp({text, onclick}) {
+export default function ButtonComp({ text, onclick }) {
   return (
-    <div>
-      <Button
-        variant="contained"
-        color="secondary"
-        startIcon={<CloudUploadIcon />}
-        size="large"
-        onClick={onclick}
-      >
+      <button className = "btn-style" onClick = {onclick}>
         {text}
-      </Button>
-    </div>
+      </button>
   );
 }

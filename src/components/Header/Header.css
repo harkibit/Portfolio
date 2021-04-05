@@ -1,3 +1,14 @@
 .header{
-    width: min-content;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height : 100vh;
+    align-content: center;
+}
+.header-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.particles-div > *{
+    margin-bottom: -50px;
 }
