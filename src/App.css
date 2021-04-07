@@ -1,9 +1,14 @@
+
 .App{
     background-color: #111111;
     min-height: 100vh;
     color : white;
     display: flex;
     justify-content: center;
+}
+.App >* ::selection{
+    background-color: #A6D4FA;
+    color :#111111;
 }
 .App > * {
     width: 80%;

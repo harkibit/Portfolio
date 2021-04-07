@@ -1,0 +1,22 @@
+@import "~@sl-codeblaster/react-3d-animated-card/dist/index.css";
+
+.ParallaxCard-container{
+  height: 80%;
+  width: 100%;
+  object-fit: contain;
+}
+.ParallaxCard-layers {
+  background-color: #111111;
+}
+
+.ParallaxCard-shine {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.01) 0%,
+    rgba(255, 255, 255, 0) 60%
+  );
+}
+.img{
+  width: 100%;
+  height: 100%;
+}

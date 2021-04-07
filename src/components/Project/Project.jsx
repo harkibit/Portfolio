@@ -3,6 +3,7 @@ import Sign from "../Sign/Sign";
 import "./Project.css";
 import Typography from "@material-ui/core/Typography";
 import ButtonComp from "../Button/Button";
+import ProjectCard from "../ProjectCard/ProjectCard"
 
 export default function Project(props) {
   const {name, description, image} = props
@@ -20,7 +21,9 @@ export default function Project(props) {
         </div>
         <ButtonComp text = "See project"/>
       </div>
-      <div></div>
+      <div>
+        <ProjectCard image = {image}/>
+      </div>
     </div>
   );
 }
