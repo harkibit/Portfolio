@@ -5,6 +5,10 @@
     display: flex;
     justify-content: center;
 }
+.App >* ::selection{
+    background-color: #A6D4FA;
+    color :#111111;
+}
 .App > * {
     width: 80%;
     justify-self: center;
