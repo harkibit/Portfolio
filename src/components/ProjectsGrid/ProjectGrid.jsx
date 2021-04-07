@@ -8,7 +8,7 @@ export default function ProjectGrid() {
     <div className="projects">
       {
           projects.map( p => {
-              return <Project name = {p.name} description = {p.description}/>
+              return <Project name = {p.name} description = {p.description} image = {p.image}/>
           })
       }
     </div>

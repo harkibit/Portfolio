@@ -22,7 +22,7 @@ export default function Project(props) {
         <ButtonComp text = "See project"/>
       </div>
       <div>
-        {/* <ProjectCard/> */}
+        <ProjectCard image = {image}/>
       </div>
     </div>
   );

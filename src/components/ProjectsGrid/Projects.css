@@ -1,6 +1,6 @@
 .projects{
     display: grid;
-    gap: 20vh;
+    gap: 30vh;
     justify-items: center;
-    margin : 20vh 0
+    margin : 20vh 0;
 }
