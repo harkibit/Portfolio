@@ -10,7 +10,7 @@ My personal portfolio
 
 1- Clone the Github repository
 ```
-git clone https://github.com/harkibit/wallet-app.git
+git clone https://github.com/harkibit/Portfolio.git
 ```
 2- Navigate to the project folder and Install NPM packages
 ```
