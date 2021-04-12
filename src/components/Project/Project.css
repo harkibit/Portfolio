@@ -2,10 +2,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     height: 50vh;
-    width: 95%;
     align-content: center;
     justify-items: center;
-    gap: 5vw;
+    gap: 10vw;
 }
 .project > *{
     align-self: center;
@@ -16,5 +15,5 @@
     justify-content: space-between;
     align-self: center;
     height : 50%;
-    width: 80%;
+    width: 90%;
 }
