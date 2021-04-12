@@ -6,7 +6,9 @@ export default function Card(card) {
   return (
     <ParallaxCard
       enableRotate
-      style={{ margin: "0 auto", width: 500, height: 510, objectFit : "contain" }}
+      enableTransform
+      className = "p-card"
+      style={{ margin: "0 auto", width: 580, height: 540}}
     >
       <img src={card.image} role='presentation' className = "img"/>
       <div />

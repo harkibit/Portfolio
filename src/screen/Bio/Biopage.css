@@ -1,6 +1,5 @@
 .bio-page{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
     justify-items: center;
     margin : 5vh 0 10vh;
     height: 80vh;

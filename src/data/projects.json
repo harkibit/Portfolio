@@ -2,29 +2,29 @@
   {
     "name": "Discover north Lebanon",
     "description": "To explore different cities and activities that can be done in north Lebanon.",
-    "image": "https://static.wixstatic.com/media/2cd43b_b13c89d3859a48129a434265b3ddd1a1~mv2_d_1826_1920_s_2.png",
-    "github": "",
-    "demo": ""
+    "image": "https://previews.dropbox.com/p/thumb/ABKNvV6Agu0ILjsXiIGKFUYGMVLJdTJRggRMJkPNbI8R6thisXNJ9txdwKRu4aKOeoBBth13p1Jf-Wa9nf0OFOuk59KNsicVaUlCi3QSwYE6_vzikOCvEnEJ7GqrFjO9YIuFEND1QLxEzXtUC72LNBfrJ4yDv5HM6B84WwSL8rwafU5zBDpPlUpLZ7IqeoTMk6iL5-wLnuCuHdoNlwlIAfs7uHiTn6cfZGRi8ZZ26srRukw-J9F8gTGGAnWnW0PjTfFcAPxap8UmXcw2VLmiAFw2Ztc4Dootx8q94J1PvmPtb7_bsj0G-zN5W-LpIi-OjE9xIeEhjjpuEUHYaMQ9XSJpY6DqzqmH826UodACU_d3IAZlKe0Yj7EDdLExd2ZOX6U/p.png?size=1600x1200&size_mode=3",
+    "github": "https://github.com/harkibit/discover-north-lebanon",
+    "demo": "http://discover-north-lebanon-b58aa.web.app"
   },
   {
     "name": "JASH",
     "description": "Movie app that shows all popular movies with their rating, description and trailers.",
     "image": "https://previews.dropbox.com/p/thumb/ABI2nuFov7Qvi_IugY1gc64o6Naq3HZLFal5XNZk7GCJielwp0WoNd_TKFjVk1OHxPHRmGbxgrTZms_ylXUm5fnQju0aBtccEyIEo0JbiYywtyJYZnX-JdC6fsV9_tad7A_4OD6-CUQ0ppncfzg7VZX3Y0XaFv60A_MhmG5KSBGRRxJTmkJhYAqqiJdnLW3VsqB3VONobbM3D8R8GsM0NIDcbATHlXasRUMiEvKwGE2HvjToUX7e9yjdxfyyszmo0buTQjZJrZZy6fBU3ok5yXj0tQ9aioHIxJ-Sh7KW9zPGLIEjntrJghnyjRcMLYPuMJf9NFH8ouJq4jt0a9CIJJEKAKQzuUwgOhf60UwMg27FasFSC66fjNkTnIpI5J66g-w/p.png?size=1600x1200&size_mode=3",
-    "github": "",
+    "github": "https://github.com/harkibit/JASH",
     "demo": ""
   },
   {
     "name": "All wallets",
     "description": "To help you organize your transactions through adding wallets",
     "image": "https://static.wixstatic.com/media/2cd43b_b13c89d3859a48129a434265b3ddd1a1~mv2_d_1826_1920_s_2.png",
-    "github": "",
+    "github": "https://github.com/harkibit/all-wallets",
     "demo": ""
   },
   {
     "name": "Portfolio",
     "description": "My personal portfolio",
-    "image": "https://static.wixstatic.com/media/2cd43b_b13c89d3859a48129a434265b3ddd1a1~mv2_d_1826_1920_s_2.png",
-    "github": "",
+    "image": "https://previews.dropbox.com/p/thumb/ABLClRL6Z9kNVAYCVRpbQhXnQppnLodV8Ho4ghLa4IqyE0sJnmGEAHMErQhHbZTaBKAbKTlbvOY0npBC7lnrDisyqy-ySZRC7cI1mV7nO4dxnxCdCxhHInHBCjvHBFBELPNy_naQpZugB-WiAqkNNWI1_WDJW4E-hTbmbREPvkJdMJepYa5W8xJXcuB6-K8taZeB07BAlbYrQccxYv8tr0OI53QzfOs3Lcd9OtRPpZphvFsB7lJioVLXaydPd-qTSHIoLUtIUBiW46vvSChrmhoIFyoR_GIh3F4hN06bAy-9x44sWdpvxFhekAZiS_QWLRjfaha3SIFpWIaU-J_V9a9WCsgndP8Sn_Rvp1L1p38fwUOLORyVfS37OCKp2OzlccU/p.png?size=1600x1200&size_mode=3",
+    "github": "https://github.com/harkibit/Portfolio",
     "demo": ""
   }
 ]
